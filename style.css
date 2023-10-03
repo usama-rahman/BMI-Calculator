@@ -1,0 +1,54 @@
+body{
+    background: linear-gradient(135deg, #02AABD , #00CDAC);
+
+}
+
+.container {
+    width: 575px;
+    height: 825px;
+    background: linear-gradient(135deg, #153677, #4e085f);
+    padding-left: 30px;
+    font-family: 'poppins', sans-serif;
+    color: rgb(219, 225, 230);
+  }
+  #height,
+  #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    border-radius:5px;
+    border: none;
+  }
+  
+  #weight-guide {
+    margin-left: 75px;
+    margin-top: 25px;
+  }
+  
+  #results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(238, 67, 67);
+  }
+  
+  button {
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background: linear-gradient(135deg, #009245 , #FE90AF);
+    padding: 1px 30px;
+    border-radius: 8px;
+    color: #101110;
+    text-decoration: none;
+    border: none;
+    font-size: 25px;
+  }
+  
+  h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+    
+  }
+  
