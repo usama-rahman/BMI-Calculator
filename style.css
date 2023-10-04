@@ -45,7 +45,13 @@ body{
     font-size: 35px;
     margin-left: 90px;
     margin-top: 20px;
-    color: rgb(76, 234, 142);
+    color: rgb(218, 33, 33);
+  }
+  #conclusion{
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(36, 218, 33);
   }
   
   button {
@@ -53,7 +59,7 @@ body{
     height: 35px;
     margin-left: 90px;
     margin-top: 25px;
-    background: linear-gradient(135deg, #009245 , #FE90AF);
+    background: linear-gradient(135deg, #509a73 , #FE90AF);
     padding: 1px 30px;
     border-radius: 8px;
     color: #101110;
